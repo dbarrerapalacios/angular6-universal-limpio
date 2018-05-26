@@ -1,0 +1,1 @@
+Proyecto en angular 6 con angular universal con la rutas configurada de la forma mas sencilla, ademas tiene jquery y bootstrap 4
